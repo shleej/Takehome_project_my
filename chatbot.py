@@ -22,7 +22,7 @@ from langchain.memory import StreamlitChatMessageHistory
 def main():
     st.set_page_config(
     page_title="Chatbot",
-    page_icon=":flag-sh:")
+    page_icon=":mag:")
 
     st.title("_Self-Introduction :red[QA Chatbot]_ :smile:")
 
